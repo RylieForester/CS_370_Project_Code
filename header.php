@@ -1,8 +1,8 @@
 <html>
     <head>
         <title>Pizza Database Portal</title>
-        <link href="/css/bootstrap.min.css" rel="stylesheet"/>
-        <script src="/js/bootstrap.bundle.js" rel="stylesheet"></script>
+        <link href="bootstrap.min.css" rel="stylesheet"/>
+        <script src="bootstrap.bundle.js" rel="stylesheet"></script>
     </head>
     <body>
 
